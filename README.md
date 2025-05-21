@@ -17,9 +17,9 @@ Welcome to my GitHub profile! I am a **Data Scientist** with a passion for analy
 
 **Database Management**: PostgreSQL, MySQL, MongoDB
 
-**Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, Seaborn, Tableau, ElasticSearch
+**Data Analysis & Visualization**: PowerBI, Tableau, ElasticSearch
 
-**Model Deployment & MLOps**: Docker, Streamlit, Huggingface
+**Model Deployment & MLOps**: Docker, Streamlit, Huggingface, PHP Laravel
 
 **Skill Dataset**: ETL Development, Feature Engineering, Data Wrangling, Data Pipelines
 
